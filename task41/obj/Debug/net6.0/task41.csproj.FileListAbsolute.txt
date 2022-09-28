@@ -1,0 +1,15 @@
+C:\projects\Языки программирования\Seminar6\task41\bin\Debug\net6.0\task41.exe
+C:\projects\Языки программирования\Seminar6\task41\bin\Debug\net6.0\task41.deps.json
+C:\projects\Языки программирования\Seminar6\task41\bin\Debug\net6.0\task41.runtimeconfig.json
+C:\projects\Языки программирования\Seminar6\task41\bin\Debug\net6.0\task41.dll
+C:\projects\Языки программирования\Seminar6\task41\bin\Debug\net6.0\task41.pdb
+C:\projects\Языки программирования\Seminar6\task41\obj\Debug\net6.0\task41.csproj.AssemblyReference.cache
+C:\projects\Языки программирования\Seminar6\task41\obj\Debug\net6.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Языки программирования\Seminar6\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
+C:\projects\Языки программирования\Seminar6\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
+C:\projects\Языки программирования\Seminar6\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
+C:\projects\Языки программирования\Seminar6\task41\obj\Debug\net6.0\task41.dll
+C:\projects\Языки программирования\Seminar6\task41\obj\Debug\net6.0\refint\task41.dll
+C:\projects\Языки программирования\Seminar6\task41\obj\Debug\net6.0\task41.pdb
+C:\projects\Языки программирования\Seminar6\task41\obj\Debug\net6.0\task41.genruntimeconfig.cache
+C:\projects\Языки программирования\Seminar6\task41\obj\Debug\net6.0\ref\task41.dll
